@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="cont.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <div class="card-body">
+                <img src="https://th.bing.com/th/id/OIP.bvOwBCKlv-_Ky_CutYpinQHaLG?w=127&h=191&c=7&r=0&o=5&dpr=1.5&pid=1.7" alt="">
+            <br>
+                <h3 class="card-title">Container 1</h3>
+                
+                <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis illo expedita eos ipsam itaque harum, eveniet, enim quasi dicta modi, dolor accusantium incidunt necessitatibus cum eum nemo officia vel optio.</p>
+             </div>
+        </div>
+        <div class="card">
+            <div class="card-body">
+                <img src="img.jpg" alt="">
+            <br>
+                <h3 class="card-title">Container 2</h3>
+          <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis illo expedita eos ipsam itaque harum, eveniet, enim quasi dicta modi, dolor accusantium incidunt necessitatibus cum eum nemo officia vel optio.</p>
+        </div>
+        </div>
+        <div class="card">
+            <div class="card-body">
+                <img src="https://th.bing.com/th/id/OIP.X7Nej1HTilaEYqBB51GvXAHaJ4?w=144&h=193&c=7&r=0&o=5&dpr=1.5&pid=1.7" alt="">
+                <br>
+                <h3 class="card-title">Container 3</h3>
+          <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis illo expedita eos ipsam itaque harum, eveniet, enim quasi dicta modi, dolor accusantium incidunt necessitatibus cum eum nemo officia vel optio.</p>
+        </div>
+        </div>
+    </div>
+
+    
+</body>
+</html>
